@@ -1,9 +1,14 @@
 import React from 'react';
+import Hearder from './components/Header';
 
 class App extends React.Component {
   render() {
-    return (<p>Sistema Solar</p>);
-    
+    return (
+      <section>
+        <p>Sistema Solar</p>
+        <Hearder />
+      </section>
+    );
   }
 }
 
