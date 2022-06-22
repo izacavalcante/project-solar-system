@@ -1,26 +1,45 @@
 .header {
-  font-size: 90px;
+  font-size: 150px;
   text-align: center;
 }
 
 .titulo {
-  font-size: 60px;
+  font-size: 130px;
+  border: 5px solid black;
+  border-radius: 40px;
+  width: 5030px;
   text-align: center;
+  margin: auto;
 }
 
 .planetasImg {
+  padding: 160px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
-}
-
-.planetinhas {
-  width: 200px;
+  justify-content: space-around;
 }
 
 .textMissions {
-  font-size: 30px;
+  font-size: 50px;
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.boxText {
+  border: 5px solid black;
+  border-radius: 40px;
+  line-height: 2px;
+  margin: 60px;
+  padding: 80px;
+  width: 1000px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.nameMissions {
+  font-size: 65px;
+  font-weight: bold;
 }
