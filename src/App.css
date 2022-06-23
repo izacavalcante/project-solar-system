@@ -1,11 +1,17 @@
+body{
+  background-image:url('../src/images/background.png');
+  }
+
 .header {
+  color: white;
   font-size: 150px;
   text-align: center;
 }
 
 .titulo {
+  color: white;
   font-size: 130px;
-  border: 5px solid black;
+  border: 5px solid white;
   border-radius: 40px;
   width: 5030px;
   text-align: center;
@@ -17,9 +23,16 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  align-items: 
+}
+
+.namePlanet {
+  color: white;
+  font-size: 50px;
 }
 
 .textMissions {
+  color: white;
   font-size: 50px;
   display: flex;
   flex-wrap: wrap;
@@ -27,7 +40,7 @@
 }
 
 .boxText {
-  border: 5px solid black;
+  border: 5px solid white;
   border-radius: 40px;
   line-height: 2px;
   margin: 60px;
