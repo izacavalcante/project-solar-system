@@ -23,7 +23,6 @@ body{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  align-items: 
 }
 
 .namePlanet {
@@ -50,6 +49,13 @@ body{
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.boxText:hover { 
+  background-color: rgb(218, 150, 24); 
+  transition: 0.5s;
+  opacity: 0.7;
+  color: black;
 }
 
 .nameMissions {
