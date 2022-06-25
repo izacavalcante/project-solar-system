@@ -18,7 +18,7 @@ body{
   margin: auto;
 }
 
-.planetImg {
+.planetasImg {
   padding: 160px;
   display: flex;
   flex-direction: row;
@@ -61,8 +61,4 @@ body{
 .nameMissions {
   font-size: 65px;
   font-weight: bold;
-}
-
-.Neturno {
-  transform: rotate(360deg);
 }
