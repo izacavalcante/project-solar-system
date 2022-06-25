@@ -1,4 +1,4 @@
-body{
+body {
   background-image: url('../src/images/background.png');
 }
 
@@ -10,8 +10,8 @@ body{
 
 .title {
   border: 5px solid white;
-  color: white;
   border-radius: 40px;
+  color: white;
   font-size: 130px;
   margin: auto;
   text-align: center;
@@ -41,19 +41,19 @@ body{
 
 .boxText {
   display: flex;
-  flex-direction: column;
   border: 5px solid white;
-  justify-content: center;
   border-radius: 40px;
+  flex-direction: column;
+  justify-content: center;
   line-height: 2px;
-  margin: 60px;
   height: 400px;
+  margin: 60px;
   padding: 80px;
   width: 1000px;
 }
 
-.boxText:hover { 
-  background-color: rgb(218, 150, 24); 
+.boxText:hover {
+  background-color:rgb(218, 150, 24);
   color: black;
   opacity: 0.7;
   transition: 0.5s;
