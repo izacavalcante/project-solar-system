@@ -42,10 +42,10 @@ body {
 .boxText {
   border: 5px solid white;
   border-radius: 40px;
+  height: 400px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 400px;
   line-height: 2px;
   margin: 60px;
   padding: 80px;
