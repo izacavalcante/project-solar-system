@@ -30,7 +30,6 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-
   padding: 120px;
 }
 
@@ -80,10 +79,10 @@ body {
 }
 
 .Mercúrio {
-  margin: auto;
   height: 90px;
-  width: 130px;
+  margin: auto;
   transition: all 3s cubic-bezier(0, -0.01, 1, .12);
+  width: 130px;
 }
 
 .Mercúrio:hover {
@@ -91,10 +90,10 @@ body {
 }
 
 .Vênus {
-  margin: auto;
   height: 180px;
-  width: 240px;
+  margin: auto;
   transition: all 2s cubic-bezier(0, -0.01, 1, .12);
+  width: 240px;
 }
 
 .Vênus:hover {
@@ -102,10 +101,10 @@ body {
 }
 
 .Terra {
-  margin: auto;
   height: 190px;
-  width: 260px;
+  margin: auto;
   transition: all 2s cubic-bezier(0, -0.01, 1, .12);
+  width: 260px;
 }
 
 .Terra:hover {
@@ -113,10 +112,10 @@ body {
 }
 
 .Marte {
-  margin: auto;
   height: 130px;
-  width: 170px;
+  margin: auto;
   transition: all 1s cubic-bezier(0, -0.01, 1, .12);
+  width: 170px;
 }
 
 .Marte:hover {
@@ -124,10 +123,10 @@ body {
 }
 
 .Júpiter {
-  margin: auto;
   height: 520px;
-  width: 660px;
+  margin: auto;
   transition: all 4s cubic-bezier(0, -0.01, 1, .12);
+  width: 660px;
 }
 
 .Júpiter:hover {
@@ -135,10 +134,10 @@ body {
 }
 
 .Saturno {
-  margin: auto;
   height: 530px;
-  width: 580px;
+  margin: auto;
   transition: all 10s cubic-bezier(0, -0.01, 0, .8);
+  width: 580px;
 }
 
 .Saturno:hover {
@@ -146,10 +145,10 @@ body {
 }
 
 .Urano {
-  margin: auto;
   height: 210px;
-  width: 290px;
+  margin: auto;
   transition: all 2s cubic-bezier(0, -0.01, 1, .12);
+  width: 290px;
 }
 
 .Urano:hover {
@@ -157,14 +156,15 @@ body {
 }
 
 .Netuno {
-  margin: auto;
   height: 240px;
-  width: 320px;
+  margin: auto;
   transition: all 2s cubic-bezier(0, -0.01, 1, .12);
+  width: 320px;
 }
 
 .Netuno:hover {
   transform: rotate(1440deg);
 }
 
-/*url com o vídeo que ensina a rotação dos itens: https://www.youtube.com/watch?v=X2J0aJ3HaYM*/
+/* url com o vídeo que ensina a rotação dos itens: 
+https://www.youtube.com/watch?v=X2J0aJ3HaYM */
