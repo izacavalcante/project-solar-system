@@ -11,7 +11,6 @@ class App extends React.Component {
         <Hearder />
         <SolarSystem />
         <Missions />
-        <div className="stars" ></div>
       </section>
     );
   }
