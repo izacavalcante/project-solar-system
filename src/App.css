@@ -81,7 +81,7 @@ body {
 .Mercúrio {
   height: 90px;
   margin: auto;
-  transition: 3s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 03s all cubic-bezier(0, -0.01, 1, .12);
   width: 130px;
 }
 
@@ -92,7 +92,7 @@ body {
 .Vênus {
   height: 180px;
   margin: auto;
-  transition: 2s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 02s all cubic-bezier(0, -0.01, 1, .12);
   width: 240px;
 }
 
@@ -103,7 +103,7 @@ body {
 .Terra {
   height: 190px;
   margin: auto;
-  transition: 2s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 02s all cubic-bezier(0, -0.01, 1, .12);
   width: 260px;
 }
 
@@ -114,7 +114,7 @@ body {
 .Marte {
   height: 130px;
   margin: auto;
-  transition: 1s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 01s all cubic-bezier(0, -0.01, 1, .12);
   width: 170px;
 }
 
@@ -125,7 +125,7 @@ body {
 .Júpiter {
   height: 520px;
   margin: auto;
-  transition: 4s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 04s all cubic-bezier(0, -0.01, 1, .12);
   width: 660px;
 }
 
@@ -136,7 +136,7 @@ body {
 .Saturno {
   height: 530px;
   margin: auto;
-  transition: 10s all cubic-bezier(0, -0.01, 0, .8);
+  transition: 010s all cubic-bezier(0, -0.01, 0, .8);
   width: 580px;
 }
 
@@ -147,7 +147,7 @@ body {
 .Urano {
   height: 210px;
   margin: auto;
-  transition: 2s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 02s all cubic-bezier(0, -0.01, 1, .12);
   width: 290px;
 }
 
@@ -158,7 +158,7 @@ body {
 .Netuno {
   height: 240px;
   margin: auto;
-  transition: 2s all cubic-bezier(0, -0.01, 1, .12);
+  transition: 02s all cubic-bezier(0, -0.01, 1, .12);
   width: 320px;
 }
 
