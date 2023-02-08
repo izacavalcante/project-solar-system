@@ -57,5 +57,5 @@ Usando o exemplo anterior: git push -u origin fulaninho-solar-system
 
 
 <h4>Executar a aplicação:</h4>
-npm start
+• npm start
 </details>
