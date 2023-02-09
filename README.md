@@ -16,6 +16,7 @@ src/components
 ##
 
 <h4>Tecnologias utilizadas</h4>
+JavaScript
 JSX no React</br>
 CSS
 
